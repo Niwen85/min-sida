@@ -1,0 +1,23 @@
+#buttons{
+    text-align: center;
+    list-style: none;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+li{
+    display: inline-block;
+    font-size: 30px;
+    
+
+
+}
+
+a{
+    text-decoration: none;
+    
+    
+
+
+}
